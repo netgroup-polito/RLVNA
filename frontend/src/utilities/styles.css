@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .diagram-component {
+    width: 75%;
+    height:500px;
+    border: black;
+    border-style: double;
+  }
+
+  .paletteComponent {
+    box-sizing: border-box;
+    width: 25%;
+    height: 500px;
+    border: black;
+    border-style: double;
+  }
