@@ -1,4 +1,4 @@
-# RLVNA: An NGI-funded Project
+# RLVNA: An NGI and NSF-funded Project
 
 ## Project Structure
 This repository is structured as follows:
